@@ -2,6 +2,13 @@
 
 ![Portada](/img/portada.png)
 
+*Investigador*:   
+Álvaro Caro Fernández
+
+*Compañero investigado*:  
+Gonzalo Pulido Sánchez
+
+
 # Índice
 - [1. Introducción](#1-introducción)
     - [1.1. Objetivo](#11-objetivo)  
