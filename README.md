@@ -10,22 +10,22 @@ Gonzalo Pulido Sánchez
 
 
 # Índice
-- [1. Introducción](#1-introducción)
-    - [1.1. Objetivo](#11-objetivo)  
-    - [1.2. Alcance](#12-alcance)
+- [Introducción](#1-introducción)
+    - [Objetivo](#11-objetivo)  
+    - [Alcance](#12-alcance)
 
-- [2. Metodología](#2-metodología)
-    - [2.1. Fuentes y Herramientas Utilizadas](#21-fuentes-y-herramientas-utilizadas)  
-    - [2.2. Proceso de Investigación](#22-proceso-de-investigación)
+- [Metodología](#2-metodología)
+    - [Fuentes y Herramientas Utilizadas](#21-fuentes-y-herramientas-utilizadas)  
+    - [Proceso de Investigación](#22-proceso-de-investigación)
 
-- [3. Resultados](#3-resultados)
-    - [3.1 Información Encontrada](#31-información-encontrada)
+- [Resultados](#3-resultados)
+    - [Información Encontrada](#31-información-encontrada)
 
-- [4. Conclusiones y Recomendaciones](#4-conclusiones-y-recomendaciones)
-    - [4.1. Conclusiones](#41-conclusiones)  
-    - [4.2. Recomendaciones de Seguridad](#42-recomendaciones-de-seguridad)
+- [Conclusiones y Recomendaciones](#4-conclusiones-y-recomendaciones)
+    - [Conclusiones](#41-conclusiones)  
+    - [Recomendaciones de Seguridad](#42-recomendaciones-de-seguridad)
 
-- [5. Referencias](#5-referencias)
+- [Referencias](#5-referencias)
 
 
 ## 1. Introducción
